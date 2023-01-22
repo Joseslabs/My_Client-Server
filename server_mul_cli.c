@@ -8,7 +8,7 @@
 #include <errno.h>
 #include <fcntl.h>
 #define MODE 0642
-#define BUF_SIZE 1048576
+#define BUF_SIZE 8371000
 
 int init();
 
